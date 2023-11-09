@@ -1,0 +1,1 @@
+add_executable (Snake_by_JtH "main.c" "main.h" "game.c" "game.h" "fail.c" "fail.h" "menu.c" "menu.h" "setting.c" "setting.h" "guide.c" "guide.h")
